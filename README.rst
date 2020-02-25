@@ -286,4 +286,4 @@ Distribution Structure
 - ``BioSQL/``     -- Code for using Biopython with BioSQL databases.
 - ``Doc/``        -- Documentation.
 - ``Scripts/``    -- Miscellaneous, possibly useful, standalone scripts.
-- ``Tests/``      -- Regression testing code including sample data files.
+- ``Test/``      -- Regression testing code including sample data files.
